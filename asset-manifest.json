@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gi-pics/static/css/main.bc17ee65.chunk.css",
+    "main.js": "/gi-pics/static/js/main.dabd2622.chunk.js",
+    "main.js.map": "/gi-pics/static/js/main.dabd2622.chunk.js.map",
+    "runtime-main.js": "/gi-pics/static/js/runtime-main.0c436aa8.js",
+    "runtime-main.js.map": "/gi-pics/static/js/runtime-main.0c436aa8.js.map",
+    "static/js/2.88b0c596.chunk.js": "/gi-pics/static/js/2.88b0c596.chunk.js",
+    "static/js/2.88b0c596.chunk.js.map": "/gi-pics/static/js/2.88b0c596.chunk.js.map",
+    "index.html": "/gi-pics/index.html",
+    "precache-manifest.887f077f6b43e5ac6063e4bce0f9ab15.js": "/gi-pics/precache-manifest.887f077f6b43e5ac6063e4bce0f9ab15.js",
+    "service-worker.js": "/gi-pics/service-worker.js",
+    "static/css/main.bc17ee65.chunk.css.map": "/gi-pics/static/css/main.bc17ee65.chunk.css.map",
+    "static/js/2.88b0c596.chunk.js.LICENSE.txt": "/gi-pics/static/js/2.88b0c596.chunk.js.LICENSE.txt",
+    "static/media/BW3.jpg": "/gi-pics/static/media/BW3.2f85b645.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c436aa8.js",
+    "static/js/2.88b0c596.chunk.js",
+    "static/css/main.bc17ee65.chunk.css",
+    "static/js/main.dabd2622.chunk.js"
+  ]
+}
