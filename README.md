@@ -23,9 +23,9 @@ Gi-Pics is a React app which fetches Images from Unsplash API and Gifs from Teno
   - Grid Structure with Dynamic Hovering Effect
  
 # API
-* Pixabay- Over 1.8 million+ high quality stock images and videos.
-* Unsplash - largest open collection of high-quality photos.
-* Tenor - most relevant GIF search in over 35 languages worldwide.
+* [Pixabay]- Over 1.8 million+ high quality stock images and videos.
+* [Unsplash] - largest open collection of high-quality photos.
+* [Tenor] - most relevant GIF search in over 35 languages worldwide.
 
 # Technologies Used
 
@@ -39,3 +39,6 @@ Gi-Pics uses a number of open source projects to work properly:
  [node.js]: http://nodejs.org/
  [ReactJs]: http://reactjs.org/
  [BootStrap]:https://getbootstrap.com/docs/4.0
+ [Pixabay]: https://pixabay.com/
+ [Unsplash]: https://unsplash.com/
+ [Tenor]: https://tenor.com/
