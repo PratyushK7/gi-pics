@@ -21,15 +21,16 @@ Gi-Pics is a React app which fetches Images from Unsplash API and Gifs from Teno
 
 ### Tech
 
-GIS uses a number of open source projects to work properly:
+Gi-Pics uses a number of open source projects to work properly:
 
 * [ReactJs] - HTML enhanced for web apps!
 * [Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
 
+### Find me at:
+* [git-repo-url] - PratyushK7 :)
 
-### Useful Links
-* [git-repo-url]: https://github.com/PratyushK7/gi-pics
-* [node.js]: http://nodejs.org/
-* [ReactJs]: http://reactjs.org/
-* [BootStrap]:https://getbootstrap.com/docs/4.0
+ [git-repo-url]: https://github.com/PratyushK7/gi-pics
+ [node.js]: http://nodejs.org/
+ [ReactJs]: http://reactjs.org/
+ [BootStrap]:https://getbootstrap.com/docs/4.0
