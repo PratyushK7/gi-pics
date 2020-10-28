@@ -6,7 +6,7 @@ PoweredBy :
 
 ### [Live Site](https://pratyushk7.github.io/gi-pics/)
 
-![Gi-Pics Search Engine]()
+![Gi-Pics](https://github.com/PratyushK7/Resources/blob/main/Gi-Pics.jpg)
 
 # Introduction
 Gi-Pics is a React app which fetches Images from Unsplash API and Gifs from Tenor API.
