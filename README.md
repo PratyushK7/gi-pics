@@ -4,10 +4,8 @@ PoweredBy :
 
 ![Author](https://img.shields.io/badge/author-Pratyush%20Kumar-lightgrey.svg?colorB=9900cc&style=flat-square)
 
-### [Live Site](https://pratyushk7.github.io/gi-pics/)
-
 # Preview
-![Gi-Pics](https://github.com/PratyushK7/Resources/blob/main/Gi-Pics.jpg)
+![Gi-Pics](https://github.com/PratyushK7/Resources/blob/main/Gi-Pics-LightTheme.jpg)
 
 # Introduction
 Gi-Pics is a React app which fetches Images from Unsplash API and Gifs from Tenor API.
