@@ -28,35 +28,8 @@ GIS uses a number of open source projects to work properly:
 * [node.js] - evented I/O for the backend
 
 
-
-
- 
-
-
-
-
-   [git-repo-url]: https://github.com/BURFAL18/Gif-Image-Searcher
-   [node.js]: http://nodejs.org/
-   [ReactJs]: http://reactjs.org/
-   [BootStrap]:https://getbootstrap.com/docs/4.0
-
-### Tech
-
-GIS uses a number of open source projects to work properly:
-
-* [ReactJs] - HTML enhanced for web apps!
-* [Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-
-
-
-
- 
-
-
-
-
-   [git-repo-url]: https://github.com/PratyushK7/gi-pics
-   [node.js]: http://nodejs.org/
-   [ReactJs]: http://reactjs.org/
-   [BootStrap]:https://getbootstrap.com/docs/4.0
+### Useful Links
+* [git-repo-url]: https://github.com/PratyushK7/gi-pics
+* [node.js]: http://nodejs.org/
+* [ReactJs]: http://reactjs.org/
+* [BootStrap]:https://getbootstrap.com/docs/4.0
