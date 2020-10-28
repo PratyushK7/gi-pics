@@ -30,7 +30,7 @@ Gi-Pics uses a number of open source projects to work properly:
 ### Find me at:
 * [git-repo-url] - PratyushK7 :)
 
- [git-repo-url]: https://github.com/PratyushK7/gi-pics
+ [git-repo-url]: https://github.com/PratyushK7/
  [node.js]: http://nodejs.org/
  [ReactJs]: http://reactjs.org/
  [BootStrap]:https://getbootstrap.com/docs/4.0
