@@ -13,7 +13,7 @@ Gi-Pics is a React app which fetches Images from Unsplash API and Gifs from Teno
 
   - DarkMode 
  
-![darkm](<img src="https://github.com/PratyushK7/README/blob/main/DarkMode.gif" width="900px">)
+<img src="https://github.com/PratyushK7/README/blob/main/DarkMode.gif">
 
 ### Tech
 
