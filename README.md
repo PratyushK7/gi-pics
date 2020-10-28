@@ -4,7 +4,11 @@ PoweredBy :
 
 ![Author](https://img.shields.io/badge/author-Pratyush%20Kumar-lightgrey.svg?colorB=9900cc&style=flat-square)
 
+### [Live Site](https://pratyushk7.github.io/gi-pics/)
 
+![Gi-Pics Search Engine]()
+
+# Introduction
 Gi-Pics is a React app which fetches Images from Unsplash API and Gifs from Tenor API.
 
   - Simple and Minimal UI
@@ -35,7 +39,6 @@ GIS uses a number of open source projects to work properly:
    [node.js]: http://nodejs.org/
    [ReactJs]: http://reactjs.org/
    [BootStrap]:https://getbootstrap.com/docs/4.0
-)
 
 ### Tech
 
