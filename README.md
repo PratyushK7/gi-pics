@@ -6,6 +6,7 @@ PoweredBy :
 
 ### [Live Site](https://pratyushk7.github.io/gi-pics/)
 
+# Preview
 ![Gi-Pics](https://github.com/PratyushK7/Resources/blob/main/Gi-Pics.jpg)
 
 # Introduction
