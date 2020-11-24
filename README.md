@@ -1,68 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Gi-Pics (Gifs-Image-Search engine)
+PoweredBy :
+![ReactJs](https://user-images.githubusercontent.com/56060354/97405855-53c40280-191e-11eb-8fe5-8d7878b0b280.png)
 
-## Available Scripts
+![Author](https://img.shields.io/badge/author-Pratyush%20Kumar-lightgrey.svg?colorB=9900cc&style=flat-square)
 
-In the project directory, you can run:
+# Preview
+![Gi-Pics](https://github.com/PratyushK7/Resources/blob/main/Gi-Pics-LightTheme.jpg)
 
-### `npm start`
+# Introduction
+Gi-Pics is a React app which fetches Images from Unsplash API and Gifs from Tenor API.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  - Simple and Minimal UI
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# New Features!
 
-### `npm test`
+  - DarkMode 
+ 
+<img src="https://github.com/PratyushK7/README/blob/main/DarkMode.gif" width="800">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - Grid Structure with Dynamic Hovering Effect
+ 
+# API
+* [Pixabay]- Over 1.8 million+ high quality stock images and videos.
+* [Unsplash] - largest open collection of high-quality photos.
+* [Tenor] - most relevant GIF search in over 35 languages worldwide.
 
-### `npm run build`
+# Technologies Used
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Gi-Pics uses a number of open source projects to work properly:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* [ReactJs] - HTML enhanced for web apps!
+* [Bootstrap] - great UI boilerplate for modern web apps
+* [node.js] - evented I/O for the backend
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ [git-repo-url]: https://github.com/PratyushK7/gi-pics
+ [node.js]: http://nodejs.org/
+ [ReactJs]: http://reactjs.org/
+ [BootStrap]:https://getbootstrap.com/docs/4.0
+ [Pixabay]: https://pixabay.com/
+ [Unsplash]: https://unsplash.com/
+ [Tenor]: https://tenor.com/
